@@ -1,113 +1,146 @@
-<h1 align="center">Hi there 👋 I'm Nikhil Kumar</h1>
-<h3 align="center">AI/ML Engineer @ Antino Labs | LLMs · RAG · Deep Learning · Computer Vision</h3>
-<p align="center"><i>Building Intelligent Agents & Automation Systems 🤖</i></p>
+<!-- ⚡ COMMAND CENTER BOOT SEQUENCE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c3ff&height=180&section=header&text=COMMAND%20CENTER&fontSize=52&fontColor=00F0FF&animation=fadeIn&desc=INITIALIZING%20NEURAL%20SYSTEMS...&descSize=16&descAlignY=75" width="100%"/>
+
+<!-- 🔵 ARC REACTOR CORE (custom animated SVG hosted in this repo) -->
+<p align="center">
+  <img src="assets/arc-reactor.svg" alt="Arc Reactor Command Center" width="100%"/>
+</p>
+
+<!-- ⌨️ JARVIS BOOT TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+AI+CORE...;%3E+LOADING+LLM+%2B+RAG+PIPELINES...;%3E+VISION+MODULE%3A+ONLINE;%3E+AGENT+MESH%3A+SYNCHRONIZED;%3E+WELCOME+TO+NIKHIL'S+COMMAND+CENTER" alt="Boot sequence"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikhilraj26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nikhil.rajak2106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/ashnikr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nikhilraj26/"><img src="https://img.shields.io/badge/UPLINK-LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=050a12&color=0e3a52" alt="LinkedIn"/></a>
+  <a href="mailto:nikhil.rajak2106@gmail.com"><img src="https://img.shields.io/badge/COMMS-Email-ff3b3b?style=for-the-badge&logo=gmail&logoColor=ff3b3b&labelColor=050a12&color=5a0e0e" alt="Email"/></a>
+  <a href="https://github.com/ashnikr"><img src="https://img.shields.io/badge/BASE-GitHub-ffd76a?style=for-the-badge&logo=github&logoColor=ffd76a&labelColor=050a12&color=4d3b00" alt="GitHub"/></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 OPERATOR PROFILE
 
-- 🧠 AI/ML Engineer at **[Antino Labs](https://github.com/antinolabs)**, building intelligent agents & automation systems
-- 🔭 Working with **LLMs, RAG pipelines, and autonomous AI agents**
-- 👁️ Experienced in **Computer Vision & Deep Learning** — including medical imaging (OCT)
-- ⚙️ Building workflow automation with **n8n and custom AI agents**
-- 🗄️ Developing low-code AI applications with **Oracle APEX, ORDS & PL/SQL**
-- 📫 Reach me at: **nikhil.rajak2106@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Core**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-**AI / ML & Deep Learning**
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-</p>
-
-**LLMs, Agents & Automation**
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Microsoft%20AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AutoGen"/>
-  <img src="https://img.shields.io/badge/BeeAI-FFB000?style=for-the-badge&logo=ibm&logoColor=black" alt="BeeAI"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" alt="CrewAI"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8A2BE2?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-</p>
-
-**Vector & Traditional Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-**Oracle Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX"/>
-  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
-  <img src="https://img.shields.io/badge/ORDS-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="ORDS"/>
-  <img src="https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL Developer"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC"/>
-</p>
-
-**Tools & Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white" alt="VS Code"/>
-</p>
+```yaml
+codename:    ASHNIKR
+operator:    Nikhil Kumar
+division:    AI/ML Engineering — Antino Labs
+mission:     Building autonomous agents, RAG systems & vision intelligence
+active_ops:  [LLM Orchestration, Agent Mesh, Medical Imaging AI, Workflow Automation]
+status:      ⚡ ALL SYSTEMS NOMINAL
+```
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Autonomous AI Workflow Automation Agent](https://github.com/ashnikr/Autonomous-AI-Workflow-Automation-Agent-) | Autonomous agent that automates end-to-end workflows using LLMs | Python, LLMs, Agents |
-| [OCTImaging](https://github.com/ashnikr/OCTImaging) | Deep learning on OCT medical imaging for diagnosis support | Python, Deep Learning, CV |
-| [Medivora](https://github.com/ashnikr/Medivora_oct) | AI-powered medical imaging analysis platform | Python, Computer Vision |
-| [n8n Project](https://github.com/ashnikr/n8n_project) | Workflow automation system built on n8n | Python, n8n |
-
----
-
-### 📊 GitHub Stats
+## 🛰️ TECHNOLOGY MODULES
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashnikr&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashnikr&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,opencv,docker,linux,git,github,mongodb,postgres,redis,mysql,vscode&perline=7&theme=dark" alt="Core modules"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚛️_ARTIFICIAL_INTELLIGENCE-CORE_MODULE-00f0ff?style=for-the-badge&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/🧬_MACHINE_LEARNING-ACTIVE-00f0ff?style=for-the-badge&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/✨_GENERATIVE_AI-ONLINE-c0c0c0?style=for-the-badge&labelColor=050a12"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_LLMs-ENGAGED-00f0ff?style=for-the-badge&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/📡_RAG-RETRIEVAL_SYSTEMS-8A2BE2?style=for-the-badge&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/🕸️_LangChain-LINKED-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00f0ff&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/🧭_LangGraph-ORCHESTRATING-00f0ff?style=for-the-badge&labelColor=050a12"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/👁️_COMPUTER_VISION-SCANNING-ff3b3b?style=for-the-badge&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/🔍_OCR-DECODING-ffd76a?style=for-the-badge&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/🗄️_VECTOR_DATABASES-INDEXED-00f0ff?style=for-the-badge&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/☁️_CLOUD-DEPLOYED-c0c0c0?style=for-the-badge&labelColor=050a12"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔴_ORACLE_APEX-LOW_CODE_AI-F80000?style=for-the-badge&logo=oracle&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/🔴_ORACLE_DATABASE_26ai-ENGAGED-F80000?style=for-the-badge&logo=oracle&labelColor=050a12"/>
+  <img src="https://img.shields.io/badge/🔴_ORDS_·_PL%2FSQL_·_JDBC-CONNECTED-F80000?style=for-the-badge&logo=oracle&labelColor=050a12"/>
 </p>
 
 ---
 
-<p align="center"><i>Open to collaborating on AI agents, RAG systems, and computer vision projects. Let's connect!</i></p>
+## 📊 LIVE TELEMETRY — SYSTEM DASHBOARDS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashnikr&show_icons=true&hide_border=true&bg_color=050a12&title_color=00f0ff&icon_color=00f0ff&text_color=7ee1f5&ring_color=00f0ff" height="170" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashnikr&layout=compact&hide_border=true&bg_color=050a12&title_color=00f0ff&text_color=7ee1f5" height="170" alt="Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashnikr&hide_border=true&background=050a12&ring=00f0ff&fire=ff3b3b&currStreakLabel=00f0ff&sideLabels=7ee1f5&currStreakNum=ffffff&sideNums=ffffff&dates=5f8fa3" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashnikr&bg_color=050a12&color=7ee1f5&line=00f0ff&point=ff3b3b&area=true&area_color=0e3a52&hide_border=true" width="95%" alt="Activity radar"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashnikr&theme=algolia&no-frame=true&no-bg=true&column=7" width="95%" alt="Achievements"/>
+</p>
+
+---
+
+## 🐍 NEURAL DATASTREAM
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashnikr/ashnikr/output/github-snake-dark.svg" alt="Contribution datastream" width="95%"/>
+</p>
+
+---
+
+## 🚀 MISSION ARCHIVES
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AUTONOMOUS AGENT — <a href="https://github.com/ashnikr/Autonomous-AI-Workflow-Automation-Agent-">OPEN FILE</a>
+> **CLASSIFICATION:** Agent Systems
+> Autonomous AI agent executing end-to-end workflow automation with LLM reasoning.
+
+`Python` `LLMs` `Agents` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ OCT IMAGING — <a href="https://github.com/ashnikr/OCTImaging">OPEN FILE</a>
+> **CLASSIFICATION:** Medical Vision
+> Deep learning on OCT retinal scans for diagnostic intelligence.
+
+`Python` `Deep Learning` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 MEDIVORA — <a href="https://github.com/ashnikr/Medivora_oct">OPEN FILE</a>
+> **CLASSIFICATION:** MedTech AI
+> AI-powered medical imaging analysis platform.
+
+`Python` `CV` `Healthcare AI`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ N8N AUTOMATION GRID — <a href="https://github.com/ashnikr/n8n_project">OPEN FILE</a>
+> **CLASSIFICATION:** Workflow Systems
+> Intelligent automation pipelines built on n8n.
+
+`Python` `n8n` `Automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=5F8FA3&center=true&vCenter=true&width=600&lines=%3E+TRANSMISSION+COMPLETE.;%3E+COMMAND+CENTER+STANDING+BY...;%3E+END+OF+LINE." alt="Outro"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,50:004e92,100:000428&height=120&section=footer" width="100%"/>
